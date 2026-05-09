@@ -16,3 +16,5 @@ Addendum Release - May 9, 2026
 - Updated "Daytime Course" to "Daylight Voyage"
 - Updated "Kuayue Sea Route" to "Sea-crossing Route"
 - Updated "Island Cloister" to "Island Corridor"
+- Updated "Change Symbol" to "Change Avatar"
+- Ctrl + S now opens the save menu
