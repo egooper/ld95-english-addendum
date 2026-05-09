@@ -1,0 +1,18 @@
+Addendum Release - May 9, 2026
+
+- Translated 17/17 map graphics
+- Translated right-click context menus
+- Translated all toolbar & context menu tooltips
+- Updated "East City" to "Eastern City"
+- Fixed unrecognized "▽" at world generation (updated to "v")
+- Fixed some leftover Shift-JIS characters in the translation script
+- Updated character sheet "M"/"F" to "♂" / "♀"
+- Added 2024 Tower Shield hotfix (I was working from the 2018 release)
+- Fixed the .exe so that the toolbar's Help button opens the translated help file correctly (major credits to Ortafian from the Steam Discussions thread for the translated CHM!)
+- Fixed "Tranfer" to "Transfer" for Transfer Items tooltip
+- Updated "Recruit Adventurer" Approach window title to "Approach Adventurer"
+- Updated "Starry Aster Road" to "Starlight Path"
+- Updated "Other Towns" palette option to "Travel"
+- Updated "Daytime Course" to "Daylight Voyage"
+- Updated "Kuayue Sea Route" to "Sea-crossing Route"
+- Updated "Island Cloister" to "Island Corridor"
